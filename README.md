@@ -23,14 +23,13 @@ The dataset contains transactional data related to coffee purchases. Each record
 
 # 🚀 Features
 
-- Best-selling and most profitable coffee products
-- Sales trend visualization (hourly based)
-- Comparating payment methods
+- Best-selling and most profitable coffee products <br>
+- Sales trend visualization (hourly based) <br>
+- Comparating payment methods <br>
 - Applied ML models and compared their accuracy visually.
-  <br>
-  <br>
+<br>
 
-  # 🧰 Tech Stack
+ # 🧰 Tech Stack
 
 - Python – Core programming language for data analysis 
 - Pandas – Data manipulation and cleaning 
@@ -38,12 +37,11 @@ The dataset contains transactional data related to coffee purchases. Each record
 - Scikit-learn – Implementing machine learning algorithms 
 - Logistic Regression, Decision Tree, Random Forest, Gradient Boosting – Predictive models used for evaluation 
 <br>
-<br>
 
 # 🧾Project Structure
 
 - README.md <br>
-   – Provides a detailed overview of the project, including objectives, dataset insights, features, and technologies used.
+  – Provides a detailed overview of the project, including objectives, dataset insights, features, and technologies used.
 - busiest_hour.sql <br>
    – SQL query to identify the busiest hours in a day, based on sales data.
 - hour_sale.py <br>
